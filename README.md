@@ -56,7 +56,7 @@ Atualmente, o repositório disponibiliza diretamente o instalador do aplicativo 
 
 1. Baixe o arquivo de instalação (ex: `.msi` ou `.exe` para Windows).
 2. Execute o instalador e siga os passos na tela.
-3. Após instalar e abrir o aplicativo, clique em **"Importar / Exportar"** e importe o arquivo `.zip` (banco de questões) disponível aqui no repositório para já começar com várias questões prontas!
+3. Após instalar e abrir o aplicativo, clique em **"Importar / Exportar"** e importe o arquivo `.zip` (banco de questões) disponível aqui no repositório para já começar com várias questões prontas.
 
 ## ⚖️ Licença e Uso
 Este software foi desenvolvido com fins educacionais e acadêmicos. As questões cadastradas pertencem aos seus respectivos criadores e bancas organizadoras. A distribuição deste software deve permanecer livre e gratuita. O uso deste software não implica a transferência dos direitos autorais das questões armazenadas ou referenciadas.
