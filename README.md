@@ -1,6 +1,6 @@
 # Banco de Questões
 
-Um aplicativo desktop para consulta, gerenciamento e edição de questões do ENEM e de outros vestibulares. Desenvolvido com Tauri (Rust) e Vanilla JS/HTML/CSS.
+Aplicativo desktop para consulta, gerenciamento e edição de questões do ENEM e de outros vestibulares. Desenvolvido com Tauri (Rust) e Vanilla JS/HTML/CSS.
 
 ## Funcionalidades
 
